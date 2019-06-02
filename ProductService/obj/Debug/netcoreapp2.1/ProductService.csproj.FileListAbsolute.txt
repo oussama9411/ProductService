@@ -1,0 +1,13 @@
+C:\Users\Oussama Hermessi\source\repos\ProductService\ProductService\bin\Debug\netcoreapp2.1\ProductService.deps.json
+C:\Users\Oussama Hermessi\source\repos\ProductService\ProductService\bin\Debug\netcoreapp2.1\ProductService.runtimeconfig.json
+C:\Users\Oussama Hermessi\source\repos\ProductService\ProductService\bin\Debug\netcoreapp2.1\ProductService.runtimeconfig.dev.json
+C:\Users\Oussama Hermessi\source\repos\ProductService\ProductService\bin\Debug\netcoreapp2.1\ProductService.dll
+C:\Users\Oussama Hermessi\source\repos\ProductService\ProductService\bin\Debug\netcoreapp2.1\ProductService.pdb
+C:\Users\Oussama Hermessi\source\repos\ProductService\ProductService\obj\Debug\netcoreapp2.1\ProductService.csproj.CoreCompileInputs.cache
+C:\Users\Oussama Hermessi\source\repos\ProductService\ProductService\obj\Debug\netcoreapp2.1\ProductService.RazorAssemblyInfo.cache
+C:\Users\Oussama Hermessi\source\repos\ProductService\ProductService\obj\Debug\netcoreapp2.1\ProductService.RazorAssemblyInfo.cs
+C:\Users\Oussama Hermessi\source\repos\ProductService\ProductService\obj\Debug\netcoreapp2.1\ProductService.AssemblyInfoInputs.cache
+C:\Users\Oussama Hermessi\source\repos\ProductService\ProductService\obj\Debug\netcoreapp2.1\ProductService.AssemblyInfo.cs
+C:\Users\Oussama Hermessi\source\repos\ProductService\ProductService\obj\Debug\netcoreapp2.1\ProductService.RazorTargetAssemblyInfo.cache
+C:\Users\Oussama Hermessi\source\repos\ProductService\ProductService\obj\Debug\netcoreapp2.1\ProductService.dll
+C:\Users\Oussama Hermessi\source\repos\ProductService\ProductService\obj\Debug\netcoreapp2.1\ProductService.pdb
